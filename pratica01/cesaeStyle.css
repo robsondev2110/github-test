@@ -1,0 +1,28 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background-color: #2d2f31;
+    color: white;
+}
+p{
+    text-align: justify;
+}
+
+.img-cesae img{
+    width: 50%;
+}
+#nav{
+    padding: 5px;   
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+    color: white;
+}
+.container-footer{
+    text-align: center;
+}
+
+#nav:hover{
+    color: #2321b3;
+}
